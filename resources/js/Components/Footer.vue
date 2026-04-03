@@ -37,7 +37,7 @@ import { Link } from '@inertiajs/vue3';
                 <p class="text-sm text-gray-500 dark:text-gray-500">© 2026 EzReserv</p>
                 <div class="flex space-x-8 text-sm">
                     <a href="#" class="text-gray-500 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Privacidad</a>
-                    <a href="#" class="text-gray-500 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Términos</a>
+                    <Link :href="route('terms')" class="text-gray-500 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Términos</Link>
                     <a href="#" class="text-gray-500 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Cookies</a>
                 </div>
             </div>
