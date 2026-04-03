@@ -1,4 +1,4 @@
-# ReservaPro - Sistema de Reservas SaaS Moderno
+# EzReserv - Sistema de Reservas SaaS Moderno
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="600" alt="ReservaPro Dashboard Preview" style="border-radius: 20px; shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1);">
